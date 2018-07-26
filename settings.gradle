@@ -1,0 +1,4 @@
+rootProject.name = 'adb_control_gui'
+include 'adbcontrol'
+rootProject.buildFileName = 'build.gradle'
+
